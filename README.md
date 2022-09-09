@@ -2,6 +2,8 @@
 
 Some code aiming to simulate the Lotka-Volterra predator-prey differential equations and to resolve some assumptions and limitations in the original equations using Python and Matplotlib.
 
+The original equations are from https://web.ma.utexas.edu/users/davis/375/popecol/lec10/lotka.html
+
 ## Overview
 There are three parts to the code. It is recommended that only one part is run at any given time, so the second and third parts are commented out to start.
 
